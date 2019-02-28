@@ -2,7 +2,7 @@
 namespace Betternet\Blog\Api\Data;
 
 
-interface PostInterface
+interface PostInterfac
 {
     /**
      * Constants for keys of data array. Identical to the name of the getter in snake case
