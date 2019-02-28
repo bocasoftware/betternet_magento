@@ -1,5 +1,5 @@
 <?php
-namespace Betternet\Blog\Api\Data;
+namespace Betternet\Blog\Api\Data
 
 
 interface PostInterface
